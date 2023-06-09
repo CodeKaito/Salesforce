@@ -1,6 +1,6 @@
 # Salesforce Developer Guide
 
-![Salesforce Logo](salesforce_logo.png)
+![image](https://github.com/CodeKaito/Salesforce/assets/57111980/1cbde1d6-07d5-446c-ba26-8a18162c4535)
 
 This repository serves as a comprehensive guide for Salesforce Developers, providing insights into Salesforce development, Apex programming language, best practices, and practical examples.
 
